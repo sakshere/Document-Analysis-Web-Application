@@ -39,7 +39,7 @@ Document_Analysis_Web_Application/
 ## 🛠️ Setup Instructions
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/umeshyadav7988/Document_Analysis_Web_Application.git
+git clone https://github.com/sakshere/Document-Analysis-Web-Application.git
 cd Document_Analysis_Web_Application
 ```
 
@@ -91,10 +91,5 @@ npm start
 - ✅ **Advanced NLP analysis** (Sentiment, named entity recognition)
 - ✅ **User authentication & history tracking**
 
-## 🌍 Live Deployment
-The application is live at: [Document Analysis Web Application](https://document-analysis-web-application-gqn5wwsgv.vercel.app)
 
-## 📬 Contact
-Developed by **Umesh Yadav**  
-📧 Email: [umeshyadav7988@gmail.com](mailto:umeshyadav7988@gmail.com)
 
